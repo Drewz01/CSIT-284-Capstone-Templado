@@ -1,0 +1,1 @@
+const String firebaseDatabaseUrl = 'https://capstone-templado-rsvpapp-default-rtdb.asia-southeast1.firebasedatabase.app';
